@@ -1,0 +1,8 @@
+Installiere auf deinem Computer:
+- eine Datenbank und gib deine Verbindungen ein, um die Datenbank mit dem Spiel zu verbinden.
+- Solltest du "pyinstaller" nicht installiert haben gib folgenden befehl in deiner Windows/Linux-Kommandozeile ein:
+- pip install pyinstaller
+Hinweis: Wenn Sie mehrere Python-Versionen auf Ihrem System installiert haben, stellen Sie sicher,
+dass Sie den richtigen Python-Interpreter verwenden, um PyInstaller zu installieren.
+Verwenden Sie beispielsweise pip3 anstelle von pip, um PyInstaller für Python 3.x zu installieren.
+
