@@ -1,12 +1,3 @@
-
-"""
-Diese Datei ist ein Teil des Spiels, Tik Tak Toe. Um das Spiel nutzen zu können, benötigt
-man alle Dateien.
-
-"""
-
-from TicTacToe import Spiel
-
 class Spieler():
 
 
